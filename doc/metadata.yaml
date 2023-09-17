@@ -1,4 +1,5 @@
-description: null
+description: Displays simple text messages and allow interaction with system via some
+  buttons.
 github_branch: nanoterm02A
 github_repo: nanoterm02
 github_url: https://github.com/mlab-modules/nanoterm02
